@@ -10,7 +10,7 @@ import Foundation
 extension Double {
     
     /// Converts a Double into a Currency with 2 decimal places
-    /// ```
+    
     
     private var currencyFormatter2: NumberFormatter {
         let formatter = NumberFormatter()
