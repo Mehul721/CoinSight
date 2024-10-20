@@ -29,7 +29,7 @@ extension Double {
     }
 
     
-    /// Converts a Double into a Currency with 2-6 decimal places
+    
     /// ```
     /// Convert 1234.56 to $1,234.56
     /// Convert 12.3456 to $12.3456
