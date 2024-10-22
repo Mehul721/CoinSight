@@ -9,7 +9,7 @@ import Foundation
 
 extension Double {
     
-    /// Converts a Double into a Currency
+    
     
     
     private var currencyFormatter2: NumberFormatter {
